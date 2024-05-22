@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">pit-collection</string>
+    <string name="collection_objective">Objective Pit Collection</string>
+    <string name="collection_subjective">Subjective Pit Collection (SEALs)</string>
+    <string name="FILLER_TEAM">Team Number</string>
+    <string name="weight">Weight (lbs.)</string>
+    <string name="length">Length (in.)</string>
+    <string name="width">Width (in.)</string>
+    <string name="has_speaker_mech">HAS Speaker Mechanism</string>
+    <string name="no_speaker_mech">NO Speaker Mechanism</string>
+    <string name="has_amp_mech">HAS Amp Mechanism</string>
+    <string name="no_amp_mech">NO Amp Mechanism</string>
+    <string name="has_trap_mech">HAS Trap Mechanism</string>
+    <string name="no_trap_mech">NO Trap Mechanism</string>
+    <string name="can_climb">Can Climb</string>
+    <string name="can_not_climb">Can Not Climb</string>
+    <string name="spin_drivetrain">Drivetrain Type</string>
+    <string name="has_rev_swerve_module">Has Rev Swerve Module</string>
+    <string name="no_rev_swerve_module">Does NOT have Rev Swerve Module</string>
+    <string name="team_number">1678</string>
+    <string name="btn_save">Save Button</string>
+    <string name="error_back_reset">Do you want to reset the collection mode?</string>
+    <string name="error_back">Please long press to reset the collection mode</string>
+    <string name ="event_key">%1$s</string>
+    <string name="version_num">Version: %1$s</string>
+    <string name="tv_objective_version">Version: %1$s, Objective</string>
+    <string name="tv_subjective_version">Version: %1$s, Subjective</string>
+    <string name="climber_strap_installation_difficulty">Climber Strap Installation Difficulty</string>
+    <string name="filler_team">FILLER_TEAM</string>
+    <string name="back_to_collection">Back to Collection</string>
+    <string name="radio_btn_one">1</string>
+    <string name="radio_btn_two">2</string>
+    <string name="radio_btn_three">3</string>
+    <string name="radio_btn_four">4</string>
+    <string name="radio_btn_five">5</string>
+    <string name="radio_btn_six">6</string>
+    <string name="radio_btn_seven">7</string>
+    <string name="radio_btn_eight">8</string>
+    <string name="radio_btn_nine">9</string>
+    <string name="radio_btn_ten">10</string>
+    <string name="save">Save</string>
+    <string name="cam_delete">Delete</string>
+    <string name="cam_continue">Continue</string>
+    <string name="climber_installation_notes">Climber installation notes</string>
+    <string name="picture_type_one">Full Robot</string>
+    <string name="picture_type_two">Front</string>
+    <string name="picture_type_three">Side</string>
+    <string name="picture_type_four"></string>
+    <string name="picture_type_five"></string>
+    <string name="picture_type_six"></string>
+    <string name="picture_type_seven"></string>
+    <string name="pit_map">Pit Map</string>
+    <string name="team_list_download_failed">Failed to download team list!</string>
+    <string name="rotate">Rotate</string>
+    <string-array name="drivetrain_array">
+        <item>Drivetrain</item>
+        <item>Tank</item>
+        <item>Mecanum</item>
+        <item>Swerve</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="picture_types">
+        <item>Full Robot 1</item>
+        <item>Full Robot 2</item>
+        <item>Drivetrain</item>
+        <item>Intake</item>
+        <item>Indexer</item>
+        <item>Shooter</item>
+        <item>Climber</item>
+    </string-array>
+
+    <string-array name="can_climb">
+        <item>Can Climb?</item>
+        <item>Can Climb</item>
+        <item>Can Not Climb</item>
+    </string-array>
+</resources>
